@@ -1,1 +1,1 @@
-web: node Program.cs
+worker: node Program.cs
